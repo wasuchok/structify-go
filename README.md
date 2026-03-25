@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo/logo.png" alt="structify-go logo" width="220" />
+  <img src="logo/logo.png" alt="structify-go logo" width="500" />
 </p>
 
 # structify-go
