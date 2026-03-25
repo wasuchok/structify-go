@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "age": 30,
+  "metadata": null,
+  "profile": {
+    "email": "alice@example.com",
+    "score": 98.5
+  },
+  "projects": [
+    {
+      "id": 101,
+      "name": "Structify",
+      "tags": [
+        "go",
+        "json"
+      ]
+    }
+  ],
+  "roles": [
+    "admin",
+    "editor"
+  ]
+}
